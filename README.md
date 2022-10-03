@@ -1,7 +1,7 @@
 # mark7-fun-translations
  <p align="center">
   <a href="https://mark7-vulcan-translation.netlify.app/">
-    <img src="star_trek_trans.png" height="300px">
+    <img src="vulcan.png" height="300px">
   </a>
 </p>
 
