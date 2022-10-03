@@ -1,4 +1,4 @@
-# mark7-fun-translations
+# mark7-Vulcan-Translations
  <p align="center">
   <a href="https://mark7-vulcan-translation.netlify.app/">
     <img src="vulcan.PNG" height="300px">
